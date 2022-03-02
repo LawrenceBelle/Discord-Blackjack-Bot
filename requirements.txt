@@ -1,0 +1,2 @@
+discord
+You will need your own discord bot token
